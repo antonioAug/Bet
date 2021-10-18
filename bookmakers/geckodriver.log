@@ -1,0 +1,197 @@
+1634580541699	geckodriver	INFO	Listening on 127.0.0.1:37761
+1634580541706	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "45099" "-no-remote" "-profile" "/tmp/rust_mozprofile3JC2YU"
+1634580542551	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile3JC2YU/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:45099/devtools/browser/3aab1bc7-6e99-4e19-a352-1353326c100d
+1634580544521	Marionette	INFO	Listening on port 42395
+1634580544653	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://web.mbstatic.org/008AE5/1-103-297/js/common/plugins.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://web.mbstatic.org/008AE5/1-103-297/js/common/plugins.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-PSGGT2L, line 363: unreachable code after return statement
+1634580619299	geckodriver	INFO	Listening on 127.0.0.1:45453
+1634580619304	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "51477" "-no-remote" "-profile" "/tmp/rust_mozprofilerWO2vz"
+1634580620136	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilerWO2vz/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51477/devtools/browser/3e8b2f45-9046-42e2-9d0f-37399378aa54
+1634580621795	Marionette	INFO	Listening on port 38567
+1634580621847	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://web.mbstatic.org/008AE5/1-103-297/js/common/plugins.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://web.mbstatic.org/008AE5/1-103-297/js/common/plugins.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-PSGGT2L, line 363: unreachable code after return statement
+1634580638723	Marionette	INFO	Stopped listening on port 38567
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1634580639772	Marionette	INFO	Stopped listening on port 42395
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1634580708853	geckodriver	INFO	Listening on 127.0.0.1:35333
+1634580708862	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "50901" "-no-remote" "-profile" "/tmp/rust_mozprofile7Kz94F"
+1634580709670	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile7Kz94F/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50901/devtools/browser/f2acc6fd-8656-4d78-b16c-e67bb630163d
+1634580711271	Marionette	INFO	Listening on port 36733
+1634580711414	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://web.mbstatic.org/008AE5/1-103-297/js/common/plugins.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://web.mbstatic.org/008AE5/1-103-297/js/common/plugins.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-PSGGT2L, line 363: unreachable code after return statement
+1634580720142	Marionette	INFO	Stopped listening on port 36733
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1634580753758	geckodriver	INFO	Listening on 127.0.0.1:42771
+1634580753768	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "57265" "-no-remote" "-profile" "/tmp/rust_mozprofileUjbLCN"
+1634580754622	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileUjbLCN/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57265/devtools/browser/0ebc9865-3352-4d44-bdee-a5607ef9e91f
+1634580756415	Marionette	INFO	Listening on port 37487
+1634580756500	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://web.mbstatic.org/008AE5/1-103-297/js/common/plugins.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://web.mbstatic.org/008AE5/1-103-297/js/common/plugins.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-PSGGT2L, line 363: unreachable code after return statement
+1634580770260	Marionette	INFO	Stopped listening on port 37487
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1634580773458	geckodriver	INFO	Listening on 127.0.0.1:54017
+1634580773464	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "50289" "-no-remote" "-profile" "/tmp/rust_mozprofileiKHnDW"
+1634580774281	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileiKHnDW/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50289/devtools/browser/e8d6c346-e506-40b0-8f8f-9603ca078a61
+1634580776015	Marionette	INFO	Listening on port 44181
+1634580776098	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://web.mbstatic.org/008AE5/1-103-297/js/common/plugins.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://web.mbstatic.org/008AE5/1-103-297/js/common/plugins.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-PSGGT2L, line 363: unreachable code after return statement
+1634580797999	Marionette	INFO	Stopped listening on port 44181
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1634581061176	geckodriver	INFO	Listening on 127.0.0.1:45689
+1634581061181	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "54793" "-no-remote" "-profile" "/tmp/rust_mozprofileR5Kbab"
+1634581061973	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileR5Kbab/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54793/devtools/browser/17cd4d7e-78b4-44e9-bfa0-a1d2203dc484
+1634581063534	Marionette	INFO	Listening on port 34989
+1634581063628	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://web.mbstatic.org/008AE5/1-103-297/js/common/plugins.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://web.mbstatic.org/008AE5/1-103-297/js/common/plugins.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-PSGGT2L, line 363: unreachable code after return statement
+1634581072377	Marionette	INFO	Stopped listening on port 34989
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1634581303299	geckodriver	INFO	Listening on 127.0.0.1:49501
+1634581303308	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "43923" "-no-remote" "-profile" "/tmp/rust_mozprofileKru4w7"
+1634581304124	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileKru4w7/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:43923/devtools/browser/2e566a0d-20ed-4db8-820f-b9dad4ca0c29
+1634581305758	Marionette	INFO	Listening on port 41331
+1634581305847	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://web.mbstatic.org/008AE5/1-103-297/js/common/plugins.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://web.mbstatic.org/008AE5/1-103-297/js/common/plugins.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-PSGGT2L, line 363: unreachable code after return statement
+1634581314750	Marionette	INFO	Stopped listening on port 41331
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1634581566682	geckodriver	INFO	Listening on 127.0.0.1:35109
+1634581566690	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "45167" "-no-remote" "-profile" "/tmp/rust_mozprofile1xgPEo"
+1634581567561	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile1xgPEo/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:45167/devtools/browser/adf1c1f0-539f-40d0-9b10-b8a1421fb18b
+1634581569200	Marionette	INFO	Listening on port 41537
+1634581569342	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://web.mbstatic.org/008AE5/1-103-297/js/common/plugins.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://web.mbstatic.org/008AE5/1-103-297/js/common/plugins.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-PSGGT2L, line 363: unreachable code after return statement
+1634581578048	Marionette	INFO	Stopped listening on port 41537
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1634581771055	geckodriver	INFO	Listening on 127.0.0.1:55327
+1634581771060	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "37765" "-no-remote" "-profile" "/tmp/rust_mozprofileAQfmfu"
+1634581771892	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileAQfmfu/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:37765/devtools/browser/ac545c57-3207-49dd-b9af-2c147f500770
+1634581773446	Marionette	INFO	Listening on port 46393
+1634581773507	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://web.mbstatic.org/008AE5/1-103-297/js/common/plugins.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://web.mbstatic.org/008AE5/1-103-297/js/common/plugins.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-PSGGT2L, line 363: unreachable code after return statement
+1634581782073	Marionette	INFO	Stopped listening on port 46393
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1634582213275	geckodriver	INFO	Listening on 127.0.0.1:60181
+1634582213281	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "40945" "-no-remote" "-profile" "/tmp/rust_mozprofilec18mV1"
+1634582214125	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilec18mV1/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:40945/devtools/browser/3ea75160-dcf8-46a5-9344-53b8d287825e
+1634582215783	Marionette	INFO	Listening on port 42375
+1634582215815	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://web.mbstatic.org/008AE5/1-103-297/js/common/plugins.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://web.mbstatic.org/008AE5/1-103-297/js/common/plugins.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-PSGGT2L, line 363: unreachable code after return statement
+1634582223517	Marionette	INFO	Stopped listening on port 42375
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1634582258882	geckodriver	INFO	Listening on 127.0.0.1:41405
+1634582258889	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "36041" "-no-remote" "-profile" "/tmp/rust_mozprofileoK7a6Y"
+1634582259756	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileoK7a6Y/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:36041/devtools/browser/e82d80a5-c5b2-4d4c-92f3-00fa304ede5f
+1634582261543	Marionette	INFO	Listening on port 43879
+1634582261636	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://web.mbstatic.org/008AE5/1-103-297/js/common/plugins.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://web.mbstatic.org/008AE5/1-103-297/js/common/plugins.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-PSGGT2L, line 363: unreachable code after return statement
+1634582269947	Marionette	INFO	Stopped listening on port 43879
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1634582664149	geckodriver	INFO	Listening on 127.0.0.1:38011
+1634582664155	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "51063" "-no-remote" "-profile" "/tmp/rust_mozprofileQEtg7D"
+1634582664996	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileQEtg7D/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51063/devtools/browser/587aa2a5-5a73-4840-bc95-2972f2dc4422
+1634582666654	Marionette	INFO	Listening on port 44285
+1634582666695	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://web.mbstatic.org/008AE5/1-103-297/js/common/plugins.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://web.mbstatic.org/008AE5/1-103-297/js/common/plugins.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-PSGGT2L, line 365: unreachable code after return statement
+1634582675144	Marionette	INFO	Stopped listening on port 44285
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1634582698479	geckodriver	INFO	Listening on 127.0.0.1:44915
+1634582698486	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "59449" "-no-remote" "-profile" "/tmp/rust_mozprofilen1yLFn"
+1634582699404	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilen1yLFn/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59449/devtools/browser/fc8a5b88-189e-4758-90c7-6e2e69465bb4
+1634582701082	Marionette	INFO	Listening on port 34453
+1634582701129	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://web.mbstatic.org/008AE5/1-103-297/js/common/plugins.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://web.mbstatic.org/008AE5/1-103-297/js/common/plugins.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-PSGGT2L, line 363: unreachable code after return statement
+1634582709432	Marionette	INFO	Stopped listening on port 34453
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
