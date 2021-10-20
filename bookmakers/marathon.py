@@ -22,12 +22,12 @@ class Marathon:
     def __init__(self):
         self.url = ""
         self.bookMaker = "MarathonBet"
-        self.eventi = []
+        self.eventi = list()
 
         self.__carica()
 
         self.dizionario = eventi(self.eventi)
-        self.dizionario.scriviFile(self.dizionario.to_json())
+        self.dizionario.scriviPrimo(self.dizionario.to_json())
 
 
     def __carica(self):
@@ -64,4 +64,4 @@ class Marathon:
 
 if __name__ == '__main__':
     marathon = Marathon()
-    print(marathon.dizionario)
+    # print(marathon.dizionario.events[0].casa)
